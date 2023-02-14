@@ -1,0 +1,13 @@
+.resources__link {
+    transition-property: opacity;
+    transition-duration: .7s;
+    transition-timing-function: ease-in-out;
+    opacity: 1;
+}
+
+.resources__link:hover {
+    transition-property: opacity;
+    transition-duration: .4s;
+    transition-timing-function: ease-in-out;
+    opacity: .4;
+}

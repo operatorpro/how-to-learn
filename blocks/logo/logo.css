@@ -1,0 +1,8 @@
+.logo {
+    margin: 0;
+    width: 228px;
+    height: 32px;
+    display: flex;
+    align-self: start;
+    z-index: 0;
+  }
