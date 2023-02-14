@@ -6,6 +6,6 @@
     justify-content: flex-start;
   }
   
-  .cards__item:nth-child(3) {
+  .cards__item:nth-child(3n) {
     margin: 0;
   }
